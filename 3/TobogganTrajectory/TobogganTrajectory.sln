@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobogganTrajectory", "TobogganTrajectory\TobogganTrajectory.csproj", "{57F91958-4FFF-4E4D-8258-670048669707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobogganTrajectory.Tests", "TobogganTrajectory.Tests\TobogganTrajectory.Tests.csproj", "{DE7CB1A5-41A6-4099-9ED0-A6FCAAAF245D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F91958-4FFF-4E4D-8258-670048669707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F91958-4FFF-4E4D-8258-670048669707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F91958-4FFF-4E4D-8258-670048669707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F91958-4FFF-4E4D-8258-670048669707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7CB1A5-41A6-4099-9ED0-A6FCAAAF245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7CB1A5-41A6-4099-9ED0-A6FCAAAF245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7CB1A5-41A6-4099-9ED0-A6FCAAAF245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7CB1A5-41A6-4099-9ED0-A6FCAAAF245D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09CFA0C-906F-4070-B1FA-EAC44625F0D8}
+	EndGlobalSection
+EndGlobal
