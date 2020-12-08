@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandheldHalting", "HandheldHalting\HandheldHalting.csproj", "{FE4E595E-75C8-4CB6-B0B5-D084D89EDAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandheldHalting.Tests", "HandheldHalting.Tests\HandheldHalting.Tests.csproj", "{C219A16C-22C7-43D4-A3F0-F9E4B625AA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4E595E-75C8-4CB6-B0B5-D084D89EDAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4E595E-75C8-4CB6-B0B5-D084D89EDAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4E595E-75C8-4CB6-B0B5-D084D89EDAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4E595E-75C8-4CB6-B0B5-D084D89EDAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C219A16C-22C7-43D4-A3F0-F9E4B625AA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C219A16C-22C7-43D4-A3F0-F9E4B625AA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C219A16C-22C7-43D4-A3F0-F9E4B625AA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C219A16C-22C7-43D4-A3F0-F9E4B625AA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E683B8F8-5E94-4E89-BC58-F5A82217A5C0}
+	EndGlobalSection
+EndGlobal
